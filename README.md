@@ -1,0 +1,2 @@
+# coding-week12
+This is a coding assignment for FE Week 12. In this assignment a small app is created to practice implementation of jQuery, AJAX and APIs. This is a modification to FE Week 3 assignment.
